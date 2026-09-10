@@ -2,6 +2,15 @@
 
 **Stop writing Code Nodes to clean your data. Use this.**
 
+## Quick start
+
+In n8n: **Settings → Community Nodes → Install**, then paste:
+
+```
+n8n-nodes-flowengine-data-standardize-clean
+```
+
+
 A production-ready n8n Community Node that cleans and transforms messy data without writing a single line of code. Built with zero runtime dependencies for maximum compatibility and verification compliance.
 
 ![n8n Community Node](https://img.shields.io/badge/n8n-Community%20Node-orange)
